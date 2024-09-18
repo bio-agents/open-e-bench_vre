@@ -1,0 +1,18 @@
+{ 
+    "_id" : "dna_sequence", 
+    "name" : "DNA sequence", 
+    "file_types" : [
+        "FASTA" 
+    ]
+}
+{ 
+    "_id" : "agent_statistics", 
+    "name" : "Agent summary file", 
+    "file_types" : [
+        "TAR"
+    ], 
+    "taxon_id" : false, 
+    "assembly" : [
+
+    ]
+}
