@@ -1,6 +1,3 @@
-source:
-  file: apiargs-MongoDBGridFSBucket-common-param.yaml
-  ref: $id
-replacement:
-  resource: " to download"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8684eee498e02954ae1cd02506d8939decd1d16837a165987d9418f0ac4227fc
+size 117

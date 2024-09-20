@@ -1,13 +1,3 @@
-{"keys": [
-  {
-    "x5c": [ "__test_x5c_1__" ],
-    "kid": "__test_kid_1__"
-  },
-  {
-    "x5c": [ "__test_x5c_2__" ],
-    "kid": "__test_kid_2__"
-  },
-  {
-    "kid": "__no_x5c_test_kid_2__"
-  }
-] }
+version https://git-lfs.github.com/spec/v1
+oid sha256:0190295fe690ed950c0875d3fff4ea02161b20c54ec410744f09ed22ed761f5c
+size 197

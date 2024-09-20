@@ -1,15 +1,3 @@
-source:
-  file: apiargs-MongoDBCollection-common-param.yaml
-  ref: $filter
-optional: false
-replacement:
-  action: " to update"
----
-source:
-  file: apiargs-MongoDBCollection-common-param.yaml
-  ref: $update
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:98bd136f0bb56ed068fbf91dedf00d853ce361744d1260ac6bdc2023f2974c18
+size 272

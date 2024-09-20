@@ -1,24 +1,3 @@
-{
-  "tests": [
-    {
-      "description": "ListDatabases succeeds",
-      "operations": [
-        {
-          "name": "listDatabases",
-          "object": "client"
-        }
-      ],
-      "expectations": [
-        {
-          "command_started_event": {
-            "command_name": "listDatabases",
-            "database_name": "admin",
-            "command": {
-              "listDatabases": 1
-            }
-          }
-        }
-      ]
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aecff85123e5eccd6958780a724e9777e768721f19c4758a6d075c67129147a0
+size 450

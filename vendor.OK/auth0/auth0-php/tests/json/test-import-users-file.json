@@ -1,13 +1,3 @@
-[
-  {
-    "email": "php-sdk-test-import-user-job@auth0.com",
-    "email_verified": true,
-    "app_metadata": {
-        "roles": ["admin", "super"],
-        "plan": "premium"
-    },
-    "user_metadata": {
-        "theme": "dark"
-    }
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:62fb6f5800fec615fefdc2ab37af73a71a5a16bd9ca2768e3b30b367a27b31e5
+size 240

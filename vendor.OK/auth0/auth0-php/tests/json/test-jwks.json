@@ -1,24 +1,3 @@
-{"keys": [
-  {
-    "string": "__string_value_1__",
-    "array": [
-      "__array_value_1__",
-      "__array_value_2__"
-    ]
-  },
-  {
-    "string": "__unused_string_value__",
-    "array": [
-      "__unused_item_1__",
-      "__unused_item_2__"
-    ]
-  },
-  {
-    "kid": "__kid_value__",
-    "string": "__string_value_2__",
-    "array": [
-      "__array_value_3__",
-      "__array_value_4__"
-    ]
-  }
-] }
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a6eceae380a5acb00b565e8f82cde651c799ffe18a22b3350c077c319c0c75
+size 403

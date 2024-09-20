@@ -1,34 +1,3 @@
-{
-    "name": "phpunit/php-token-stream",
-    "description": "Wrapper around PHP's tokenizer extension.",
-    "type": "library",
-    "keywords": ["tokenizer"],
-    "homepage": "https://github.com/sebastianbergmann/php-token-stream/",
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Sebastian Bergmann",
-            "email": "sebastian@phpunit.de"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/sebastianbergmann/php-token-stream/issues"
-    },
-    "require": {
-        "php": ">=5.3.3",
-        "ext-tokenizer": "*"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~4.2"
-    },
-    "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.4-dev"
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97fd0896173fe9ac94f3c68219c84afbc1b0dc9bdce74751a2e390a3d19f3e3d
+size 812

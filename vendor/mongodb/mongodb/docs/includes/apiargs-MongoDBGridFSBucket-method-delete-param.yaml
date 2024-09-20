@@ -1,6 +1,3 @@
-source:
-  file: apiargs-MongoDBGridFSBucket-common-param.yaml
-  ref: $id
-replacement:
-  resource: " to delete"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d9ad432926e2420668b63e99417989700b760aad1ba148bc1191bd855ee1ba
+size 115

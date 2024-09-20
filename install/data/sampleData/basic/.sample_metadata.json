@@ -1,12 +1,3 @@
-[
-    {
-        "file_path": "uploads",
-        "type":"dir",
-        "sources": [0],
-        "meta_data": {
-            "expiration":-1,
-            "description": "Uploaded personal data",
-            "files":[]
-        }
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3140347ed6af777c4042204bcff88a4042b9ccbbca4c9775b15610c88abd9a2
+size 232

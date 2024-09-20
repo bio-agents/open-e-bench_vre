@@ -1,22 +1,3 @@
-{
-	"name": "czproject/git-php",
-	"type": "library",
-	"description": "Library for work with Git repository in PHP.",
-	"keywords": ["git"],
-	"license": "BSD-3-Clause",
-	"authors": [
-		{
-			"name": "Jan Pecha",
-			"email": "janpecha@email.cz"
-		}
-	],
-	"require": {
-		"php": ">=5.4.0"
-	},
-	"autoload": {
-		"classmap": ["src/"]
-	},
-	"require-dev": {
-		"nette/tester": "^1.1"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5acf972982341461163cd8353893b4eadac2b337082768748cfc43177ef0e56
+size 375

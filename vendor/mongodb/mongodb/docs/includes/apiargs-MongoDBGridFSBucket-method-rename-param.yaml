@@ -1,15 +1,3 @@
-source:
-  file: apiargs-MongoDBGridFSBucket-common-param.yaml
-  ref: $id
-replacement:
-  resource: " to rename"
----
-arg_name: param
-name: $newFilename
-type: string
-description: |
-  The new ``filename`` value.
-interface: phpmethod
-operation: ~
-optional: false
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8932cbc83b767115699098dc8a7c0d59ae64cdad73218cbdfbd913e04cae49d5
+size 262

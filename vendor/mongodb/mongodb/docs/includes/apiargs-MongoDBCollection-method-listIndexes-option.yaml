@@ -1,10 +1,3 @@
-source:
-  file: apiargs-common-option.yaml
-  ref: maxTimeMS
----
-source:
-  file: apiargs-common-option.yaml
-  ref: session
-post: |
-  .. versionadded:: 1.3
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e307f356c6a00b3c5126eac70722d6527a830827b71c4c0d791484654cf13a
+size 158

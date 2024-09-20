@@ -1,21 +1,3 @@
-{
-    "name": "mongod",
-    "id" : "STANDALONE_SSL",
-    "procParams": {
-        "dbpath": "/tmp/standalone-ssl/",
-        "ipv6": true,
-        "logappend": true,
-        "logpath": "/tmp/standalone-ssl/m.log",
-        "journal": true,
-        "port": 2100,
-        "bind_ip_all": true,
-        "setParameter": {"enableTestCommands": 1}
-    },
-    "sslParams": {
-        "sslMode": "requireSSL",
-        "sslCAFile": "$TRAVIS_BUILD_DIR/mongo-orchestration/ssl/ca.pem",
-        "sslPEMKeyFile": "$TRAVIS_BUILD_DIR/mongo-orchestration/ssl/server.pem",
-        "sslWeakCertificateValidation": true,
-        "sslAllowInvalidHostnames": true
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b81eb9fdf507f970981a166b8d65878747f9adbb41b7c6c3adb3676131cf5a4
+size 646

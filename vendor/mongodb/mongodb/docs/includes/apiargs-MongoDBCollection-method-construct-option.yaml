@@ -1,25 +1,3 @@
-source:
-  file: apiargs-common-option.yaml
-  ref: readConcern
-replacement:
-  resource: "collection"
-  parent: "manager"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: readPreference
-replacement:
-  resource: "collection"
-  parent: "manager"
----
-source:
-  file: apiargs-MongoDBClient-method-construct-driverOptions.yaml
-  ref: typeMap
----
-source:
-  file: apiargs-common-option.yaml
-  ref: writeConcern
-replacement:
-  resource: "collection"
-  parent: "manager"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e71b4d040806d03c19fb38ee456131aadc82a3609fac6fb539de56da891845
+size 469

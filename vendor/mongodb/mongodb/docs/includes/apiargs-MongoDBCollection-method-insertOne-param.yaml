@@ -1,13 +1,3 @@
-arg_name: param
-name: $document
-type: array|object
-description: |
-  The document to insert into the collection.
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a49a07b6c72d7910bf7a3ee65c0dd2f139007cc2665278df7eb85d04f2ca54e
+size 228

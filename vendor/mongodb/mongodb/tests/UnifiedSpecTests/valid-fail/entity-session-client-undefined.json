@@ -1,18 +1,3 @@
-{
-  "description": "entity-session-client-undefined",
-  "schemaVersion": "1.0",
-  "createEntities": [
-    {
-      "session": {
-        "id": "session0",
-        "client": "foo"
-      }
-    }
-  ],
-  "tests": [
-    {
-      "description": "foo",
-      "operations": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3da18e77458e9cd2a35726e2a225c9865a6993ebd73a61531599037f1a63e8
+size 278

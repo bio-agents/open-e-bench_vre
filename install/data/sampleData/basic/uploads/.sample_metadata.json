@@ -1,13 +1,3 @@
-[
-    {
-        "file_path": "uploads/README.md",
-	"data_type":"configuration_file",
-	"file_type":"TXT",
-        "type":"file",
-        "sources": [0],
-        "meta_data": {
-            "expiration":-1,
-            "description": "my first VRE file"
-        }
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdd8c8d72bb095a1ff85a7012a91afeb8e652497dadc7b983c128054b0d1075f
+size 269

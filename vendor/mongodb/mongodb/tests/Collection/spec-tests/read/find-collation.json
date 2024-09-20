@@ -1,34 +1,3 @@
-{
-  "data": [
-    {
-      "_id": 1,
-      "x": "ping"
-    }
-  ],
-  "minServerVersion": "3.4",
-  "tests": [
-    {
-      "description": "Find with a collation",
-      "operation": {
-        "name": "find",
-        "arguments": {
-          "filter": {
-            "x": "PING"
-          },
-          "collation": {
-            "locale": "en_US",
-            "strength": 2
-          }
-        }
-      },
-      "outcome": {
-        "result": [
-          {
-            "_id": 1,
-            "x": "ping"
-          }
-        ]
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6082d99309d40b94147cfd44ff01d3c44e6b3f8c494b23f41bf31aabcb03d9d
+size 538

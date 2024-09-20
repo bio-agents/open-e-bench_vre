@@ -1,29 +1,3 @@
-{
-    "name": "phpunit/php-text-template",
-    "description": "Simple template engine.",
-    "type": "library",
-    "keywords": [
-        "template"
-    ],
-    "homepage": "https://github.com/sebastianbergmann/php-text-template/",
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Sebastian Bergmann",
-            "email": "sebastian@phpunit.de",
-            "role": "lead"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/sebastianbergmann/php-text-template/issues"
-    },
-    "require": {
-        "php": ">=5.3.3"
-    },
-    "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9775c6bf192f3f6bdd36e4fda34ae72efc417e49ff3343324e63b68eade105ed
+size 653

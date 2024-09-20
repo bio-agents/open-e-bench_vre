@@ -1,18 +1,3 @@
-source:
-  file: apiargs-MongoDBGridFSBucket-common-option.yaml
-  ref: _id
----
-source:
-  file: apiargs-MongoDBGridFSBucket-common-option.yaml
-  ref: chunkSizeBytes
----
-source:
-  file: apiargs-MongoDBGridFSBucket-common-option.yaml
-  ref: disableMD5
-post: |
-  .. versionadded: 1.4
----
-source:
-  file: apiargs-MongoDBGridFSBucket-common-option.yaml
-  ref: metadata
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ca4c1f44ea2b9587e5d5d27e36ae8f284f5fbdbd9de46d20240871f552b3a62
+size 366

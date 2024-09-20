@@ -1,20 +1,3 @@
-source:
-  file: apiargs-common-param.yaml
-  ref: $collectionName
-replacement:
-  subject: "collection or view"
-  action: " to modify"
----
-arg_name: param
-name: $collectionOptions
-type: array
-description: |
-  Collection or view options to assign.
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:b363fa337e3481c076c80475281c21aeb6e17e6557581c550b19afceebfbe2ea
+size 361

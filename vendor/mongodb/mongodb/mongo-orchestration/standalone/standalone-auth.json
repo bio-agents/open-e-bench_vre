@@ -1,17 +1,3 @@
-{
-    "name": "mongod",
-    "id" : "STANDALONE_AUTH",
-    "auth_key": "secret",
-    "login": "root",
-    "password": "toor",
-    "procParams": {
-        "dbpath": "/tmp/standalone-auth/",
-        "ipv6": true,
-        "logappend": true,
-        "logpath": "/tmp/standalone-auth/m.log",
-        "journal": true,
-        "port": 2200,
-        "bind_ip_all": true,
-        "setParameter": {"enableTestCommands": 1}
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c2dc2cfdb765dda7a20dd07282b2114b760f7a6c1b4f288761a03540f04e25
+size 420

@@ -1,10 +1,3 @@
-source:
-  file: apiargs-common-param.yaml
-  ref: $collectionName
-replacement:
-  action: " to select"
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ed031f4e56b063699e9d9d459a577529d86b37b538989f169f77d5332237ca
+size 167

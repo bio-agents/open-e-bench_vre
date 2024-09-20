@@ -1,27 +1,3 @@
-source:
-  file: apiargs-common-option.yaml
-  ref: readConcern
-replacement:
-  resource: "collection"
-  parent: "database"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: readPreference
-replacement:
-  resource: "collection"
-  parent: "database"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: typeMap
-replacement:
-  parent: "database"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: writeConcern
-replacement:
-  resource: "collection"
-  parent: "database"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:3691610c94dd9dde98c051bf341cfad6cad70a3d41fe7088faaaf013ddd09774
+size 475

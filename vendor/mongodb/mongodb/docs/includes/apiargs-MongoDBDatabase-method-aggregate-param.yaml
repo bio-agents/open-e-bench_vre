@@ -1,14 +1,3 @@
-arg_name: param
-name: $pipeline
-type: array
-description: |
-  Specifies an :manual:`aggregation pipeline </core/aggregation-pipeline>`
-  operation.
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9105dae3f5cbb28555c4cff8e1246060d380b9c5ef40ee1d2c155996fbc2c734
+size 263

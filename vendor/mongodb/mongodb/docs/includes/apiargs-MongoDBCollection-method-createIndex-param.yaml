@@ -1,20 +1,3 @@
-arg_name: param
-name: $key
-type: array|object
-description: |
-  Specifies the field or fields to index and the index order.
-
-  For example, the following specifies a descending index on the ``username``
-  field:
-
-  .. code-block:: php
-
-     [ 'username' => -1 ]
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:5356381292f5ac269050b09e43779097e1519fb20ddfb9711eed9493f654680e
+size 377

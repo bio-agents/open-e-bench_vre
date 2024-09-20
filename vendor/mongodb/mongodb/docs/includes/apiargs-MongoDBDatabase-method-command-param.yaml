@@ -1,13 +1,3 @@
-arg_name: param
-name: $command
-type: array|object
-description: |
-  The :manual:`database command </reference/command>` document.
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:2996db44eb5cbeaa31d17c9400bea2202e06581674ec5b92e4851068be85e448
+size 245

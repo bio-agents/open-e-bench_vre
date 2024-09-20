@@ -1,35 +1,3 @@
-{
-    "name": "myclabs/deep-copy",
-    "type": "library",
-    "description": "Create deep copies (clones) of your objects",
-    "keywords": ["clone", "copy", "duplicate", "object", "object graph"],
-    "license": "MIT",
-
-    "autoload": {
-        "psr-4": {
-            "DeepCopy\\": "src/DeepCopy/"
-        },
-        "files": [
-            "src/DeepCopy/deep_copy.php"
-        ]
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "DeepCopy\\": "fixtures/",
-            "DeepCopyTest\\": "tests/DeepCopyTest/"
-        }
-    },
-
-    "require": {
-        "php": "^5.6 || ^7.0"
-    },
-    "require-dev": {
-        "doctrine/collections": "^1.0",
-        "doctrine/common": "^2.6",
-        "phpunit/phpunit": "^4.1"
-    },
-
-    "config": {
-        "sort-packages": true
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9fff39794adcc582c8a0840ea20c1956b502e9d17a0bff2b290dd4f84245da7
+size 784

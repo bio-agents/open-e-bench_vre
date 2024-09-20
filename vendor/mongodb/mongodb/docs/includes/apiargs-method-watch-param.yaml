@@ -1,13 +1,3 @@
-arg_name: param
-name: $pipeline
-type: array|object
-description: |
-  The pipeline of stages to append to an initial ``$changeStream`` stage.
-interface: phpmethod
-operation: ~
-optional: true
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:151222922dc5314972e190b70e7247216029e878d686de91a5b21b2ce4d7b224
+size 255

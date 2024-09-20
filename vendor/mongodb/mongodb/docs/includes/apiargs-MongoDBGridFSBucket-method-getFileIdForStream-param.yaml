@@ -1,4 +1,3 @@
-source:
-  file: apiargs-MongoDBGridFSBucket-common-param.yaml
-  ref: $stream
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8317d42742794e7f49f684a74ce95e34643092a91c73630d0e2683831a36333
+size 81

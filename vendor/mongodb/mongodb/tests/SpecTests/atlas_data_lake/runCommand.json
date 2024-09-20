@@ -1,31 +1,3 @@
-{
-  "database_name": "test",
-  "tests": [
-    {
-      "description": "ping succeeds using runCommand",
-      "operations": [
-        {
-          "name": "runCommand",
-          "object": "database",
-          "command_name": "ping",
-          "arguments": {
-            "command": {
-              "ping": 1
-            }
-          }
-        }
-      ],
-      "expectations": [
-        {
-          "command_started_event": {
-            "command_name": "ping",
-            "database_name": "test",
-            "command": {
-              "ping": 1
-            }
-          }
-        }
-      ]
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4059943efa661fa3ea643424677f848cdbbccab68484511b9391177950648560
+size 600

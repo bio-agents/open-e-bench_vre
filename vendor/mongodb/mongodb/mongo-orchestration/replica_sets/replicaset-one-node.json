@@ -1,24 +1,3 @@
-{
-    "id": "REPLICASET_SINGLE",
-    "name": "mongod",
-    "members": [
-        {
-            "procParams": {
-                "dbpath": "/tmp/REPLICASET/3020/",
-                "ipv6": true,
-                "logappend": true,
-                "logpath": "/tmp/REPLICASET/3020/mongod.log",
-                "journal": true,
-                "port": 3020,
-                "bind_ip_all": true
-            },
-            "rsParams": {
-                "tags": {
-                    "ordinal": "one",
-                    "dc": "pa"
-                }
-            },
-            "server_id": "RS-alone"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2c2f9841969dc685c6361b967ef78958cf5a8445640b8fb3c1c80c0bae9c4c
+size 610

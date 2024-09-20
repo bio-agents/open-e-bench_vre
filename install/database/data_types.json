@@ -1,18 +1,3 @@
-{ 
-    "_id" : "dna_sequence", 
-    "name" : "DNA sequence", 
-    "file_types" : [
-        "FASTA" 
-    ]
-}
-{ 
-    "_id" : "agent_statistics", 
-    "name" : "Agent summary file", 
-    "file_types" : [
-        "TAR"
-    ], 
-    "taxon_id" : false, 
-    "assembly" : [
-
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a50ce5e8fb1583e6a0fcd580180a90efd184655a04dc0cc1e583bd1ef034020
+size 276

@@ -1,6 +1,3 @@
-source:
-  file: apiargs-common-param.yaml
-  ref: $databaseName
-replacement:
-  action: " to select"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3ab4c132266ed3cfa8849308a543d57aca209c6ab04dc14125766c74ccf5ee
+size 103

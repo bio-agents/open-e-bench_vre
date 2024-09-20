@@ -1,33 +1,3 @@
-{
-    "name": "sebastian/diff",
-    "description": "Diff implementation",
-    "keywords": ["diff"],
-    "homepage": "https://github.com/sebastianbergmann/diff",
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Sebastian Bergmann",
-            "email": "sebastian@phpunit.de"
-        },
-        {
-            "name": "Kore Nordmann",
-            "email": "mail@kore-nordmann.de"
-        }
-    ],
-    "require": {
-        "php": "^5.3.3 || ^7.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
-    },
-    "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.4-dev"
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba14b60cccbcbebb714423463688a88eede7b8ee9abdc829b8af23fba8473016
+size 733

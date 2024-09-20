@@ -1,27 +1,3 @@
-source:
-  file: apiargs-common-option.yaml
-  ref: readConcern
-replacement:
-  resource: "collection"
-  parent: "original collection"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: readPreference
-replacement:
-  resource: "collection"
-  parent: "original collection"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: typeMap
-replacement:
-  parent: "original collection"
----
-source:
-  file: apiargs-common-option.yaml
-  ref: writeConcern
-replacement:
-  resource: "collection"
-  parent: "original collection"
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5b04f11868af74400af120ae7cf9443b675d7d5b4f38851f92da81a4bad358c
+size 519

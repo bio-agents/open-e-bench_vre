@@ -1,18 +1,3 @@
-source:
-  file: apiargs-MongoDBCollection-common-option.yaml
-  ref: bypassDocumentValidation
----
-source:
-  file: apiargs-MongoDBCollection-method-bulkWrite-option.yaml
-  ref: ordered
----
-source:
-  file: apiargs-common-option.yaml
-  ref: session
-post: |
-  .. versionadded:: 1.3
----
-source:
-  file: apiargs-MongoDBCollection-common-option.yaml
-  ref: writeConcern
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:15d643a368d938620856e5c24c54de0e95d8cff769048ed7d793fb9ede563dd0
+size 366

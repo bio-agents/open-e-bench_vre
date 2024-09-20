@@ -1,8 +1,3 @@
-source:
-  file: apiargs-method-watch-param.yaml
-  ref: $pipeline
----
-source:
-  file: apiargs-method-watch-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:24e359ef01d69c33fb1f7529ab7a26641b20cd61c170c2445bd6ec832d36a3f4
+size 137

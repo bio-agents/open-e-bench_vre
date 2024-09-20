@@ -1,15 +1,3 @@
-arg_name: param
-name: $indexName
-type: string| :phpclass:`MongoDB\\Model\\IndexInfo`
-description: |
-  The name or model object of the index to drop. View the existing indexes on
-  the collection using the :phpmethod:`listIndexes()
-  <MongoDB\\Collection::listIndexes>` method.
-interface: phpmethod
-operation: ~
-optional: false
----
-source:
-  file: apiargs-common-param.yaml
-  ref: $options
-...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8877a38393db306babcaf9451254085e11047602033c86d288dc7a0dd5635632
+size 393
